@@ -1,4 +1,4 @@
-def myFunc():
+def my_func():
     print('Ola')
 
 
@@ -6,9 +6,3 @@ def myFunc():
 # Pylint
 # snake_case > funcçoes, variaveis
 # Pascal_case > classes
-    
-
-
-
-
-
